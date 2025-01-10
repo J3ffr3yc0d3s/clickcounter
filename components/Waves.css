@@ -1,0 +1,8 @@
+.waves {
+  pointer-events: none;
+}
+
+.waves canvas {
+  opacity: 0.95;
+}
+
